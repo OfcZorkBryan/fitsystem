@@ -1,5 +1,7 @@
 # FitSystem
 
+![Banner anime original em tons suaves](assets/anime-banner.svg)
+
 Projeto de estudo com a proposta de criar um sistema para academia, organizando informações de alunos, treinos e matrículas.
 
 ## Objetivo
